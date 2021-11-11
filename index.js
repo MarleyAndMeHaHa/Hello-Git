@@ -12,4 +12,4 @@ console.log(sayHello('Marley O '))
 
 const Rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
-console.log(Rainbow)
+console.log(Rainbow[4])
