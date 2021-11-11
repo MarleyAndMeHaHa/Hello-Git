@@ -13,3 +13,5 @@ console.log(sayHello('Marley O '))
 const Rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 console.log(Rainbow[4])
+
+let name = prompt('What is your name?')
